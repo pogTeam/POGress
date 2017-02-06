@@ -2,7 +2,7 @@ import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 CSRF_ENABLED = True
-SECRET_KEY = '\2\1thisismyscretkey\1\2\e\y\y\h'
+SECRET_KEY = 'HolySh1t_p0gTe@m!!KicksA55'
 
 OPENID_PROVIDERS = [
     { 'name': 'Google', 'url': 'https://www.google.com/accounts/o8/id' },
@@ -37,7 +37,7 @@ AUTH_TYPE = 1
 AUTH_ROLE_ADMIN = 'Admin'
 AUTH_ROLE_PUBLIC = 'Public'
 APP_NAME = "pogTeam"
-APP_THEME = ""                  # default
+#APP_THEME = ""                  # default
 #APP_THEME = "cerulean.css"      # COOL
 #APP_THEME = "amelia.css"
 #APP_THEME = "cosmo.css"
@@ -47,5 +47,5 @@ APP_THEME = ""                  # default
 #APP_THEME = "readable.css"
 #APP_THEME = "simplex.css"
 #APP_THEME = "slate.css"          # COOL
-#APP_THEME = "spacelab.css"      # NICE
+APP_THEME = "spacelab.css"      # NICE
 #APP_THEME = "united.css"
