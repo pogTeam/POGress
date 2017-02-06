@@ -1,0 +1,5 @@
+app.db
+__pycache__/
+*.py[cod]
+config.py
+build/
