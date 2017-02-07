@@ -2,6 +2,8 @@ This is the pogTeam's CTFs records system. Here we manage our progress, checking
 
 This project uses flask_appbuilder and quickcharts2 as its base.
 
+![POGress screenshot](docs/img/pogress.png)
+
 # Installation
 We recommend using a virtualenv for this project. First install the dependencies:
 
